@@ -8,4 +8,3 @@ def display_board
   puts "   |   |   "
   return display_board
   end
-
